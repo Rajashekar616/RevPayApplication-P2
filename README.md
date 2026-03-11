@@ -359,7 +359,7 @@ http://localhost:8080
 
 # 👨‍💻 Author
 
-**Srujith Kandala**
+**Rajashekar reddy Peddireddy**
 
 Full Stack Java Developer
 
